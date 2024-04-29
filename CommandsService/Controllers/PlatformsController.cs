@@ -1,8 +1,9 @@
 using System;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CommandsService.Controllers
 {
-    public class PlatformsController
+    public class PlatformsController : ControllerBase
     {
         
     }
